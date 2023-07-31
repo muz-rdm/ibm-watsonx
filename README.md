@@ -10,9 +10,8 @@ Anything about IBM Watsonx platform.
 - https://newsroom.ibm.com/tag/watsonx
 - https://newsroom.ibm.com/2023-05-09-IBM-Unveils-the-Watsonx-Platform-to-Power-Next-Generation-Foundation-Models-for-Business
 - https://newsroom.ibm.com/IBM-watsonx-capabilities-are-now-available-to-help-meet-enterprises-AI-for-business-needs
-- https://newsroom.ibm.com/2023-06-20-FYI-Collaborates-with-IBM-to-Manage-the-Business-of-Creation-Using-Generative-AI
-- itpro.com/technology/artificial-intelligence/ibm-watsonx-is-an-as-a-service-ai-platform-for-businesses
-- https://www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb
+- https://newsroom.ibm.com/2023-06-20-FYI-Collaborates-with-IBM-to-Manage-the-Business-of-Creation-Using-Generative-AI- https://www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb
+- https://www.itpro.com/technology/artificial-intelligence/ibm-watsonx-is-an-as-a-service-ai-platform-for-businesses
 - https://www.bloomberg.com/news/videos/2023-05-09/ibm-unveils-watsonx-platform-video
 - https://www.bloomberg.com/news/articles/2023-05-09/ibm-launches-ai-development-platform-with-renewed-watson-brand#xj4y7vzkg
 - https://futurumgroup.com/insights/ibm-watsonx-data-is-now-generally-available-as-part-of-major-watsonx-announcement/
