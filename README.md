@@ -4,6 +4,7 @@ Anything about IBM Watsonx platform.
 ## Reference
 
 ### Watsonx
+- https://www.ibm.com/watsonx
 - https://www.ibm.com/watsonx?utm_content=SRCWW&p1=Search&p4=43700077029996512&p5=p&gclid=CjwKCAjwt52mBhB5EiwA05YKoykGcuElf3jII4UmwFvA4UI5b4YbKBn83ophdUbGpof6e02Ptc9kSxoCIdEQAvD_BwE&gclsrc=aw.ds
 
 ### Media Release
@@ -11,6 +12,7 @@ Anything about IBM Watsonx platform.
 - https://newsroom.ibm.com/2023-05-09-IBM-Unveils-the-Watsonx-Platform-to-Power-Next-Generation-Foundation-Models-for-Business
 - https://newsroom.ibm.com/IBM-watsonx-capabilities-are-now-available-to-help-meet-enterprises-AI-for-business-needs
 - https://newsroom.ibm.com/2023-06-20-FYI-Collaborates-with-IBM-to-Manage-the-Business-of-Creation-Using-Generative-AI- https://www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb
+- https://ithinkbot.com/ibm-watson-to-watsonx-ce7882825b73
 - https://www.itpro.com/technology/artificial-intelligence/ibm-watsonx-is-an-as-a-service-ai-platform-for-businesses
 - https://www.bloomberg.com/news/videos/2023-05-09/ibm-unveils-watsonx-platform-video
 - https://www.bloomberg.com/news/articles/2023-05-09/ibm-launches-ai-development-platform-with-renewed-watson-brand#xj4y7vzkg
@@ -40,4 +42,8 @@ Anything about IBM Watsonx platform.
 - https://www.barrons.com/articles/ibm-stock-price-ai-watson-x-bc2a4ab1
 
 ### Articles
+- https://medium.com/@carlo.marcoli/ibm-watsonx-harnessing-generative-ai-for-the-enterprise-abb188d998d6
+- https://medium.com/ibm-data-ai/empowering-ai-engineers-how-ibm-watsonx-revolutionizes-ai-for-data-science-workflows-83b4b6254f03
+- https://generativeai.pub/is-ibm-watsonx-ai-going-to-change-the-ai-development-landscape-9a6c7e3d7c43
+- https://www.linkedin.com/pulse/why-ibm-watsonx-game-changer-ai-landscape-miraclesoft
 - https://www.linkedin.com/posts/franklingraves_ibm-watsonx-ibm-activity-7061701553111359488-ZiCd/
