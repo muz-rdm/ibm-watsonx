@@ -5,8 +5,9 @@ Anything about IBM Watsonx platform.
 
 ### Watsonx
 - https://www.ibm.com/watsonx
-- https://www.ibm.com/watsonx?utm_content=SRCWW&p1=Search&p4=43700077029996512&p5=p&gclid=CjwKCAjwt52mBhB5EiwA05YKoykGcuElf3jII4UmwFvA4UI5b4YbKBn83ophdUbGpof6e02Ptc9kSxoCIdEQAvD_BwE&gclsrc=aw.ds
-
+- https://developer.ibm.com/components/watsonx/
+- https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/
+  
 ### Media Release
 - https://newsroom.ibm.com/tag/watsonx
 - https://newsroom.ibm.com/2023-05-09-IBM-Unveils-the-Watsonx-Platform-to-Power-Next-Generation-Foundation-Models-for-Business
@@ -40,6 +41,43 @@ Anything about IBM Watsonx platform.
 - https://koreajoongangdaily.joins.com/2023/06/13/business/tech/IBM/20230613173905706.html
 - https://www.bangkokpost.com/life/tech/2567921/ibm-preps-ai-platform-for-business-users
 - https://www.barrons.com/articles/ibm-stock-price-ai-watson-x-bc2a4ab1
+- https://www.cxotoday.com/news-analysis/ibm-bets-on-watsonx-for-generative-ai/
+- https://digitalcxo.com/article/ibm-enters-the-ai-race-with-its-unveiling-of-watsonx/
+- https://www.askhandle.com/blog/what-is-watsonx
+- https://news.asiatechxsg.com/en/article/72443/ibm-considers-in-house-ai-chip-to-save-cost-on
+- https://www.sdxcentral.com/articles/news/ibm-bets-on-watsonx-to-corner-generative-ai-development/2023/07/
+- https://medium.com/@beethoven.elite.dev/watsonx-platform-empowering-innovators-with-cognitive-capabilities-256f2a1296e2
+- https://antgrasso.medium.com/unleashing-the-power-of-ai-with-ibm-watsonx-a-revolutionary-leap-for-ibms-global-partner-network-32a5e1c99aa5
+- https://techaisle.com/blog/523-ibm-enhancing-security-and-ai-capabilities
+- https://opusresearch.net/wordpress/2023/07/17/ibm-fine-tunes-llms-for-customer-service-with-ibm-watsonx-ai/
+- https://www.thestorythailand.com/en/10/05/2023/99224/
+- https://www.nst.com.my/business/2023/07/929006/ibm-aims-bridge-global-skills-gap-malaysia-region
+- https://www.guardianowldigital.com/2023/05/11/ibm-watson-ai-becomes-chatgpt-rival/
+- https://www.techradar.com/pro/ibm-unveils-its-next-generation-of-watson-for-businesses
+- https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/
+- https://aithority.com/machine-learning/ibm-watsonx-now-available-for-enterprise-ai-stacks/
+- https://www.techtimes.com/articles/291298/20230509/ibm-launches-new-ai-platform-watsonx-help-businesses-integrate-artificial.htm
+- https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/
+- https://enterprisetalk.com/quick-bytes/ibm-reveals-new-watsonx/
+- https://www.fool.com/investing/2023/05/10/ibm-resurrects-watson-to-ride-the-ai-hype-train/
+- https://ramaonhealthcare.com/ibm-launches-watsonx-studio-to-make-deploying-generative-ai-easier/
+- https://www.cdotrends.com/story/18175/watsonx-take-ai-next-level
+- https://blocksandfiles.com/2023/05/11/ibm-watsonx-data/
+- https://www.crn.com/news/cloud/ibm-think-2023-watsonx-promises-enterprise-ai-at-scale-with-trust
+- https://www.bollyinside.com/news/technology/ibm-introduces-latest-watsonx-an-advanced-ai-and-data-platform/
+- https://generativeai.pub/is-ibm-watsonx-ai-going-to-change-the-ai-development-landscape-9a6c7e3d7c43
+- https://www.marketwatch.com/story/ibm-rolls-into-ai-arms-race-with-watsonx-f434574c
+- https://www.marketresearchfuture.com/news/ibm-launches-watsonx-for-enterprises-ai-in-businesses
+- https://huggingface.co/blog/huggingface-and-ibm
+- https://in.investing.com/news/ibm-unveils-the-watsonx-platform-432SI-3635563
+- https://www.iastoppers.com/articles/watsonx
+- https://www.coinspeaker.com/ibm-ai-watsonx/
+- https://cioafrica.co/ibm-launches-watsonx-to-power-next-generation-ai/
+- https://sg.news.yahoo.com/daily-crunch-ibm-says-watsonx-220553981.html
+- https://www.techzine.eu/news/applications/105787/ibm-unveils-watsonx-to-bring-generative-ai-to-the-enterprise/
+- https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece
+- https://ground.news/article/ibm-unveils-its-next-generation-of-watson-for-businesses
+- https://washingtontechnology.com/top-100/2023/07/ibms-tech-and-business-agenda-leads-ai-hybrid-cloud/388925/
 
 ### Articles
 - https://medium.com/@carlo.marcoli/ibm-watsonx-harnessing-generative-ai-for-the-enterprise-abb188d998d6
@@ -47,3 +85,4 @@ Anything about IBM Watsonx platform.
 - https://generativeai.pub/is-ibm-watsonx-ai-going-to-change-the-ai-development-landscape-9a6c7e3d7c43
 - https://www.linkedin.com/pulse/why-ibm-watsonx-game-changer-ai-landscape-miraclesoft
 - https://www.linkedin.com/posts/franklingraves_ibm-watsonx-ibm-activity-7061701553111359488-ZiCd/
+- https://www.analyticsvidhya.com/blog/2023/05/ibm-revolutionizes-the-enterprise-ai-landscape-with-watsonx-platform/
