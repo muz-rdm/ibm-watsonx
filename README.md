@@ -78,6 +78,7 @@ Anything about IBM Watsonx platform.
 - https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece
 - https://ground.news/article/ibm-unveils-its-next-generation-of-watson-for-businesses
 - https://washingtontechnology.com/top-100/2023/07/ibms-tech-and-business-agenda-leads-ai-hybrid-cloud/388925/
+- https://insider.govtech.com/california/sponsored/what-is-ibm-watsonx-and-how-it-can-enable-a-new-era-of-ai-for-business
 
 ### Articles
 - https://medium.com/@carlo.marcoli/ibm-watsonx-harnessing-generative-ai-for-the-enterprise-abb188d998d6
