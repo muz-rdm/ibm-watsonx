@@ -8,7 +8,8 @@ Anything about IBM Watsonx platform.
 - https://developer.ibm.com/components/watsonx/
 - https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/
 
-### Watsonx.Data
+### IBM Watsonx.Data
+- https://github.com/IBM/watsonxdata-node-sdk
 - https://cloud.ibm.com/apidocs/watsonxdata
   
 ### Media Release
