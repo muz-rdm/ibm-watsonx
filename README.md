@@ -3,7 +3,7 @@ Anything about IBM Watsonx platform.
 
 ## Reference
 
-### Watsonx
+### IBM Watsonx
 - https://www.ibm.com/watsonx
 - https://developer.ibm.com/components/watsonx/
 - https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/
